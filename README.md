@@ -4,7 +4,7 @@ Naïve Bayes vs Logistic Regression
 ## 🐨 Project Overview
 This project involves a classification empirical study comparing two machine learning algorithms: Naïve Bayes and Logistic Regression. 
 
-## 🍙 Dataset:
+## 🍙 Dataset
 The Car Evaluation dataset is used for this study, which provides an opportunity to explore and document the performance of these algorithms in a practical setting.
 
 [Car Evaluation Dataset](https://archive.ics.uci.edu/dataset/19/car+evaluation)
