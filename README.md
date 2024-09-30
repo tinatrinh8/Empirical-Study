@@ -1,4 +1,4 @@
-# Classification-Empirical-Study 🎧🥋🥣⛅️🕷️
+# Empirical-Study 🎧🥋🥣⛅️🕷️
 Naïve Bayes vs Logistic Regression
 
 ## 🐨 Project Overview
